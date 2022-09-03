@@ -1,1 +1,1 @@
-write a script
+directories
