@@ -1,1 +1,1 @@
-create a script that moves all files beginning with uppercase letters to the directory
+script that deletes all files in the pwd that ends with the ~
