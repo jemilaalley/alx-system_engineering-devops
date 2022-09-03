@@ -1,1 +1,1 @@
-write a script that prints the effective username of the current root
+write a script that prints effective username
